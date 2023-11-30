@@ -19,9 +19,9 @@ jobs:
           - name: Sync Wiki
             uses: joeizzard/action-wiki-sync@master
             with:
-                username: nevstop
-                access_token: ${{ secrets.GITHUB_TOKEN }}
+                username: NEVSTOP
+                access_token: ${{ secrets.WIKI_SYNC_TOKEN }}
                 wiki_folder: wiki
-                commit_username: 'Example Name'
-                commit_email: 'example@users.noreply.github.com'
+                commit_username: 'NEVSTOP'
+                commit_email: 'NEVSTOP@users.noreply.github.com'
                 commit_message: 'action: wiki sync'
