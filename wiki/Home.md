@@ -2,4 +2,4 @@
 
 ## Level2
 
-![image](/_img/image.jpg)
+![image](_img/image.jpg)
