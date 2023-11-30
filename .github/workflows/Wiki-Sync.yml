@@ -1,15 +1,5 @@
-name: Documentation
-
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - ".doc/**"
-
-env:
-  GIT_AUTHOR_NAME: Actionbot
-  GIT_AUTHOR_EMAIL: actions@github.com
+name: Sync Github Wiki
+on: push
 
   jobs:
     sync_docs:
