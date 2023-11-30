@@ -19,7 +19,7 @@ jobs:
           - name: Sync Wiki
             uses: joeizzard/action-wiki-sync@master
             with:
-                username: NEVSTOP
+                username: nevstop
                 access_token: ${{ secrets.WIKI_SYNC_TOKEN }}
                 wiki_folder: wiki
                 commit_username: 'NEVSTOP'
