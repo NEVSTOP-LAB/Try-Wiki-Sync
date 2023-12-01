@@ -1,25 +1,45 @@
-# [CSM](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/Home)
+# 蜀道难
 
-## 基础
+噫吁戏，危乎高哉！
 
-1. [基本概念](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/基础概念-缩写)
-2. [同步调用](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/同步调用)
-3. [异步调用](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/异步调用)
-4. [状态订阅](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/状态订阅)
+蜀道之难，难于上青天！
 
-## 模式
+蚕丛及鱼凫，开国何茫然。
 
-1. [消息机制模式](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/As-QMH)
-2. [远程调用模式](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/As-RPC)
-3. [协作者模式](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/As-Worker)
+尔来四万八千岁，不与秦塞通人烟。
 
-## Tool
+西当太白有鸟道，可以横绝峨眉巅。
 
-1. [JKI State Machine Editor](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/JKI-State-Editor)
-2. CSM State Dashoard
-3. CSM State Running Log
-4. CSM State Table
+地崩山摧壮士死，然后天梯石栈相钩连。
 
-## Benchmark
+上有六龙回日之高标，下有冲波逆折之回川。
 
-1. [“UI: Front Panel State >> Open”](https://github.com/NEVSTOP-LAB/Communicable-State-Machine/wiki/Benchmark-%E2%80%90-Compare-with-CSM)
+黄鹤之飞尚不得过，猿猱欲度愁攀援。
+
+青泥何盘盘，百步九折萦岩峦。
+
+扪参历井仰胁息，以手抚膺坐长叹。
+
+问君西游何时还，畏途躔岩不可攀。
+
+但见悲鸟号古木，雄飞雌从绕林间。
+
+又闻子规啼夜月，愁空山，蜀道之难，难于上青天！
+
+使人听此凋朱颜。
+
+连峰去天不盈尺，枯松倒挂倚绝壁。
+
+飞湍瀑流争喧虺，砰崖转石万壑雷。
+
+其险也如此，嗟尔远道之人胡为乎哉！
+
+剑阁峥嵘而崔嵬，一夫当关，万夫莫开。
+
+所守或匪亲，化为狼与豺。
+
+朝避猛虎，夕避长蛇，磨牙吮血，杀人如麻。
+
+锦城虽云乐，不如早还家。
+
+蜀道之难，难于上青天！侧身西望长咨嗟。
